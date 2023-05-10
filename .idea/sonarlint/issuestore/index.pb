@@ -1,0 +1,21 @@
+
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+A
+package-lock.json,f\a\fa288d1472d29beccb489a676f68739ad365fc47
+G
+react-crud/src/index.js,6\b\6b1fa79c1079325a9b0223795cfa96136a64dadd
+E
+react-crud/src/App.js,9\d\9dc7f44c5f337bf3f86245a0508b7ad1896dc7dd
+`
+0react-crud/src/components/copyright.component.js,6\e\6e36ad363d1645e3b3c571994a03605972f35eeb
+c
+3react-crud/src/components/defects-list.component.js,6\9\692a62a02ec3d2cc767aa91c6c24789cd06b0850
+e
+5react-crud/src/components/employees-list.component.js,a\3\a36c9adc5992c3c46302c335110706aabb22f9eb
+[
++react-crud/src/components/home.component.js,6\2\624718fcd431c1d80071146ad9723dd7f3558a24
+^
+.react-crud/src/components/norecord-componet.js,5\5\5529346e2fa50376e4025097d0a8637aeeb3c926
+e
+5react-crud/src/components/buildings-list.component.js,8\c\8cf0d3e6c9569338b2b7c5fbaada89b15d5f89c5
